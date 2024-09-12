@@ -1,33 +1,22 @@
-# Survival Analysis for Duchenne Muscular Dystrophy: Predicting Loss of Ambulation
+# Comparison of machine learning methods for predicting loss of ambulation in Duchenne Muscular Dystrophy 
 
 ## Project Overview
 
-This project compares different machine learning methods for survival analysis to predict loss of ambulation in patients with Duchenne muscular dystrophy (DMD). We explore various ML techniques to analyze and predict the time until a DMD patient loses the ability to walk independently.
+This project holds the code and results for the analysis of predicting Loss of Ambulation (LoA) in patients with Duchenne muscular dystrophy (DMD) using different machine learning methods for survival analysis.
 
 ## Repository Structure
 
-``
-
+```
 ├── README.md
-
 ├── requirements.txt
-
 ├── src/
-
 │ ├── 01-data-overview-preprocessing.ipynb
-
 │ ├── 02-final-dataset-eda.ipynb
-
 │ ├── 03-models.ipynb
-
 │ ├── 04-shap-values.ipynb
-
 │ └── utils.py
-
 └── results/
-
-``
-
+```
 
 ## Notebooks
 
